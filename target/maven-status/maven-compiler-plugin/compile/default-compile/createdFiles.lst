@@ -1,0 +1,13 @@
+com\archmage\model\Contact.class
+com\archmage\dao\UserInfoDao.class
+com\archmage\model\UserInfo.class
+com\archmage\mapper\UserInfoMapper.class
+com\archmage\config\ApplicationContextConfig.class
+com\archmage\config\SpringSecurityInitializer.class
+com\archmage\config\SpringWebAppInitializer.class
+com\archmage\controller\MainController.class
+com\archmage\dao\impl\UserInfoDaoImpl.class
+com\archmage\authentication\MyDBAuthenticationService.class
+com\archmage\config\WebMvcConfig.class
+com\archmage\config\WebSecurityConfig.class
+com\archmage\mapper\ContactMapper.class
